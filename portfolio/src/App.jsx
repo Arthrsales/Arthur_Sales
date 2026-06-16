@@ -348,12 +348,12 @@ export default function App() {
               <span className="cc-label">E-mail</span>
               <span className="cc-value">{copied ? '✓ Copiado!' : 'arthursales.sr@gmail.com'}</span>
             </button>
-            <a className="contact-card" href="https://linkedin.com" target="_blank" rel="noreferrer">
+            <a className="contact-card" href="https://www.linkedin.com/in/arthur-sales-8b384131a/" target="_blank" rel="noreferrer">
               <span className="cc-icon">💼</span>
               <span className="cc-label">LinkedIn</span>
-              <span className="cc-value">/in/arthur-sales-8b384131a/</span>
+              <span className="cc-value">/in/arthur-sales</span>
             </a>
-            <a className="contact-card" href="https://github.com" target="_blank" rel="noreferrer">
+            <a className="contact-card" href="https://github.com/Arthrsales" target="_blank" rel="noreferrer">
               <span className="cc-icon">🐙</span>
               <span className="cc-label">GitHub</span>
               <span className="cc-value">/ArthrSales</span>
@@ -363,7 +363,7 @@ export default function App() {
       </Section>
 
       <footer className="footer">
-        <span>© 2025 Arthur Sales</span>
+        <span>© 2026 Arthur Sales</span>
         <span>Feito com React + Vite ⚡</span>
       </footer>
     </>
